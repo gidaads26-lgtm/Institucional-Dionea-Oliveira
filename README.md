@@ -19,7 +19,8 @@ Envie `index.html` e `og-image.jpg` para a pasta pública da hospedagem (por exe
 ## Onde trocar os dados
 
 - **WhatsApp e Instagram:** no fim do `index.html` (ou do `fonte/src.html`), nas constantes `WHATSAPP` e `INSTAGRAM`. Os botões usam esses valores.
-- **Domínio:** o endereço provisório `https://www.dioneaoliveira.com.br` aparece no topo do arquivo (canonical, Open Graph, Twitter Card e JSON-LD). Troque todas as ocorrências pelo domínio definitivo.
+- **Endereço do site:** hoje é `https://institucionaldioneaoliveira.vercel.app`. Ele aparece no topo do arquivo (canonical, Open Graph, Twitter Card e JSON-LD). Se o site passar para um domínio próprio, troque todas as ocorrências.
+- **Prévia no WhatsApp e redes:** a imagem é `og-image.jpg` (1200×630). Se trocar a imagem, aumente o número em `og-image.jpg?v=2` para as redes buscarem a versão nova.
 
 ## Como editar
 
@@ -31,6 +32,5 @@ Envie `index.html` e `og-image.jpg` para a pasta pública da hospedagem (por exe
 
 - Endereços completos (rua, número, bairro e CEP) de Novo Hamburgo e Estância Velha.
 - Formação da Dionea: cursos, instituições e há quanto tempo atende.
-- Domínio definitivo.
 - WhatsApp configurado: +55 51 8402-0168 (wa.me/555184020168).
 - Confirmar com as participantes do Desafio Código da Calma o uso dos depoimentos no site.
