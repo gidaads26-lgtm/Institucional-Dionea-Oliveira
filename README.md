@@ -6,15 +6,15 @@ Site de uma página da Dionea Oliveira, hipnoterapeuta clínica, terapeuta de PN
 
 | Arquivo | Para que serve |
 |-|-|
-| `index.html` | O site pronto. Um arquivo só, com CSS, JavaScript e fotos embutidos. |
+| `index.html` | O site pronto, com CSS e JavaScript embutidos. |
+| `assets/` | Fotos do site e ícone do celular. |
 | `og-image.jpg` | Imagem que aparece quando alguém compartilha o link (1200×630). Precisa ficar na raiz do domínio. |
 | `fonte/src.html` | O código-fonte para editar, com marcadores no lugar das fotos. |
-| `fonte/imagens/` | As fotos originais já recortadas e comprimidas. |
 | `fonte/build.py` | Gera o `index.html` final a partir da fonte. |
 
 ## Como publicar
 
-Envie `index.html` e `og-image.jpg` para a pasta pública da hospedagem (por exemplo, `public_html`). Não precisa de mais nada: as fontes vêm do Google Fonts.
+O site está na Vercel, ligado a este repositório: cada envio para a `main` publica sozinho. Em outra hospedagem, envie `index.html`, `og-image.jpg` e a pasta `assets/` para a pasta pública.
 
 ## Onde trocar os dados
 
@@ -24,7 +24,7 @@ Envie `index.html` e `og-image.jpg` para a pasta pública da hospedagem (por exe
 
 ## Como editar
 
-1. Altere `fonte/src.html` (ou troque uma foto em `fonte/imagens/` mantendo o mesmo nome).
+1. Altere `fonte/src.html` (ou troque uma foto em `assets/` mantendo o mesmo nome).
 2. Rode `python3 fonte/build.py` na raiz do repositório.
 3. Publique o `index.html` gerado.
 
