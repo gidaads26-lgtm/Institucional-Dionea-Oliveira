@@ -20,7 +20,7 @@ Envie `index.html` e `og-image.jpg` para a pasta pública da hospedagem (por exe
 
 - **WhatsApp e Instagram:** no fim do `index.html` (ou do `fonte/src.html`), nas constantes `WHATSAPP` e `INSTAGRAM`. Os botões usam esses valores.
 - **Endereço do site:** hoje é `https://institucionaldioneaoliveira.vercel.app`. Ele aparece no topo do arquivo (canonical, Open Graph, Twitter Card e JSON-LD). Se o site passar para um domínio próprio, troque todas as ocorrências.
-- **Prévia no WhatsApp e redes:** a imagem é `og-image.jpg` (1200×630). Se trocar a imagem, aumente o número em `og-image.jpg?v=2` para as redes buscarem a versão nova.
+- **Prévia no WhatsApp e redes:** a imagem é `og-image.jpg` (1200×630). Se trocar a imagem, aumente o número em `og-image.jpg?v=3` para as redes buscarem a versão nova.
 
 ## Como editar
 
