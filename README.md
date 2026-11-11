@@ -32,5 +32,5 @@ Envie `index.html` e `og-image.jpg` para a pasta pública da hospedagem (por exe
 - Endereços completos (rua, número, bairro e CEP) de Novo Hamburgo e Estância Velha.
 - Formação da Dionea: cursos, instituições e há quanto tempo atende.
 - Domínio definitivo.
-- Confirmar o número do WhatsApp (hoje: +55 51 98402-0168).
+- WhatsApp configurado: +55 51 8402-0168 (wa.me/555184020168).
 - Confirmar com as participantes do Desafio Código da Calma o uso dos depoimentos no site.
