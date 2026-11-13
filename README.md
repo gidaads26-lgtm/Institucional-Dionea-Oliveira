@@ -31,6 +31,5 @@ O site está na Vercel, ligado a este repositório: cada envio para a `main` pub
 ## Pendências
 
 - Bairro e CEP do consultório, se quiser mostrar no site.
-- Formação da Dionea: cursos, instituições e há quanto tempo atende.
 - WhatsApp configurado: +55 51 8402-0168 (wa.me/555184020168).
 - Confirmar com as participantes do Desafio Código da Calma o uso dos depoimentos no site.
